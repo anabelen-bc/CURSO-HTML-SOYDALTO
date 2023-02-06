@@ -14,3 +14,6 @@ Se recomienta no poner mas de un H1 (ya el mismo te posiciona en Google)
 H1 una sola vez - H2 Y H3 varias veces, H4 - H5 - H6 inlimitado
 Las etiquetas de texto aparecen todas seguidas porque se adaptan al contenido
 H1 - H6 Y P - completan la linea 
+El DIV es una caja que divide
+La etiqueta A te redirige a otra pagina, A cuenta con un atributo que es HREF="dentro de esto va el enlace de la pagina donde queremos ir" <a href>y aqui dentro la palabra que nos aparecera en la pagina</a>
+Para poder navegar dentro de las carpetas que tenemos en nuestro proyecto, debemos usar las rutas donde se encuentra dicho archivo. Si nos ubicamos en una carpeta, y luego queremos salir debemos utilizar ../ las veces que sea necesarias para poder volver carpetas atras
