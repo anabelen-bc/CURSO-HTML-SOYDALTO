@@ -1,0 +1,14 @@
+Las etiquetas se inicializan con <> y se finalizan cerrando la etiqueta </>
+Estas etiquetas pueden tener atibutos que cuentan con algun valor o propiedad.
+<NOMBRE-DE-ETIQUETA ATRIBUTO="VALOR"> </NOMBRE-DE-ETIQUETA>
+Hay dos tipos de etiquetas: 
+Las que se cierran solas <br> y las etiquetas que necesitas abrir y cerrar <h1></h1>
+<br> Deja un espacio en linea
+<h1> nos muestra un titulo (?)
+<!Doctype HTML> define que es la ultima version de HTML
+<html> Adentro de esta etiqueta tenemos toda la pagina, todo lo que podemos ver, como lo que podemos no ver
+LO QUE PODEMOS VER SE ENCUENTRA EN EL BODY
+LO QUE NO PODEMOS VER SE ENCUENTRA EN EL HEAD
+<title> titulo de la ventana(pestaña)
+Se recomienta no poner mas de un H1 (ya el mismo te posiciona en Google)
+H1 una sola vez - H2 Y H3 varias veces, H4 - H5 - H6 inlimitado
